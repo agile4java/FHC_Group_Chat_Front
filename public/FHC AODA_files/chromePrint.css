@@ -1,0 +1,48 @@
+@media print {
+    
+   .desktop .all-the-header {
+        display:none;
+    }
+    
+    .ms-core-brandingText {
+       display:none;
+   }
+    
+      .ms-navedit-editLinksIconWrapper{
+      	display:none;
+      }
+      
+      .ms-navedit-editLinksIcon{
+      	display:none;
+      }
+      
+      .ms-breadcrumb-top {
+         display:none;
+			}
+			
+			
+		.ms-tableCell.ms-verticalAlignMiddle {
+    		display:none;
+		}
+		
+		#SearchBox{
+			 display:none;
+		}
+		
+		#ctl00_TopHelpLink{
+			display:none;
+		}
+		
+		#zz12_SiteActionsMenu{
+			display:none;
+		}
+		
+		span.s4-clust > img{
+			display:none;
+		}
+    
+    .docsSearch{
+        display:none;
+    }
+    
+}
